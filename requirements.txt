@@ -1,4 +1,6 @@
 streamlit
+gTTS
+deeptranslator
 numpy
 matplotlib
 pandas

@@ -1,3 +1,6 @@
 streamlit
-gtts
-deep_translator
+numpy
+PIL
+requests
+BytesIO
+matplotlb.pyplot
